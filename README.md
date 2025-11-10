@@ -1,7 +1,7 @@
 # My Portfolio Page
 ##Author: Victor Lam
 
-Github Repository: https://github.com/mingmanhk/MyPortfolioPage\
+Github Repository: https://github.com/mingmanhk/MyPortfolioPage
 Page: https://mingmanhk.github.io/MyPortfolioPage/ 
 
 ## Purpose: 
